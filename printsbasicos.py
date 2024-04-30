@@ -15,3 +15,9 @@ print("\nCom Anitta e Ludmila!")
 
 print("Aprendendo Algoritmo!\n")
 print("Com Anitta e Ludmila!")
+
+#28. printar mensagem
+print("É PRECISO FAZER TODOS OS ALGORITMOS PARA APRENDER")
+
+#29. printar meu nome (vou imprimir meu apelido)
+print("Vic")
