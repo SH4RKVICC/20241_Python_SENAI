@@ -148,3 +148,10 @@
 # v = (vd * vt) / 100
 # t = vd + v
 # print(f"O valor do rendimento é {v}, portanto o valor total é aprox. {t}")
+
+#73 ler numero real e calcular a parte inteira do numero, a parte fracionada e o numero arredondado
+# nr = float(input("Insira o número real desejado: "))
+# pi = int(str(nr).split('.')[0])
+# pf = int(str(nr).split('.')[1])
+# na = round(nr)
+# print(f"Parte Inteira do Núm.; {pi}.\nParte Fracionada: {pf}.\nNúm. Arredondado; {na}.")
