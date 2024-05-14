@@ -116,3 +116,35 @@
 # t = float(input("Insira o tempo em meses: "))
 # p = v + (v*(t/100)*t)
 # print(f"O valor da prestação em atraso é R${p}.")
+
+#68.ler dois valores para as variaveis A e B, trocar valores e apresenta-los
+# a = float(input("Insira o valor de A: "))
+# b = float(input("Insira o valor de B: "))
+# na = b
+# nb = a
+# print(f'A ={na}.\n\nB = {nb}')
+
+#69. ler numerador e denominador de uma fração e transfome-o em num decimal
+# n = int(input("Insira o valor de A: "))
+# dn = int(input("Insira o valor de B: "))
+# d = n / dn
+# print(f'Resultado: {d}')
+
+#70.
+# vc = float(input("Insira o valor da conta: R$"))
+# g = vc *1.1
+# print("O Valor final com gorjeta é R$", g)
+
+#71. ler valor de hora e informar quantos minutos se passaram desde o inicio do dia
+# ha = int(input("Insira a hora atual: "))
+# ma = int(input("Insira o minuto atual: "))
+# tm = (ha * 60) + ma
+# print(f"Até agora se passaram {tm} minutos.")
+
+#72. ler valor de um deposito e o valor da taxa de juros. calcular e mostrar o
+#valor do rendimento e o valor total dps do rendimento
+# vd = float(input("Insira o valor do deposito: "))
+# vt = float(input("Insira o valor da taxa de juros: "))
+# v = (vd * vt) / 100
+# t = vd + v
+# print(f"O valor do rendimento é {v}, portanto o valor total é aprox. {t}")
