@@ -1,0 +1,18 @@
+#22. testando hierarquia 2.
+
+print("\nTESTABNDO HIERARQUIA\n")
+print("\n18/6 % 2 é igual a: ", 18 + 6 % 2)
+print("\nUma operação de divisâo fora de parênteses não pode ser um \ndos operados de uma expressâo com %. ")
+print("\n\n20 / 4 div 2 é igual a: ", 20 / 4 //2)
+print("\nÉ IGUAL a (20 / 4) div 2: ", (20 / 4) //2, " logo ** tem HIERARQUIA MAIOR \ndo que * ou /")
+print("\n\n3*7 % 5 é igual a: ", 3*7 % 5)
+print("\nÉ DIFERENTE de (3 * 7) % 5 que é igual a: ",(3 * 7) % 5, " logo div tem a MESMA HIERARQUIA.")
+print(" da /. ")
+print("\n\n30 / 4 div 2 é igual a: ", 30/4 // 2)
+print("\nÉ IGUAL a (30 / 7) div. 2 : ", (30 / 4) // 2," logo div tem a MESMA HIERARQUIA")
+print(" da /")
+print("\n\n7. div 4: ", 7. // 4)
+print("\n7 div 4: ", 7 // 4)
+print("\n\n6. div 4: ", 6. // 4)
+print("\n\n6 div 4: ", 6 // 4)
+print("FROM SH4RKVICC")
