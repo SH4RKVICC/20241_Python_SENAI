@@ -1,0 +1,3 @@
+#28. printar mensagem
+print("É PRECISO FAZER TODOS OS ALGORITMOS PARA APRENDER")
+print("FROM SH4RKVICC")
