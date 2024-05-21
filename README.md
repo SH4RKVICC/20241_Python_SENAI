@@ -1,4 +1,4 @@
-# Programação em Python
+# 🐍 Programação em Python
 ## Premissa;
 Minhas atividades realizadas no Senai Frederico Jacob em referencia as aulas ministradas pelo Professor Andre e demais recomendações de estudo do mesmo.
 
