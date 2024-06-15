@@ -1,0 +1,1 @@
+# 122. Ler três números e imprimir se eles podem ou não ser lados de um triângulo.
