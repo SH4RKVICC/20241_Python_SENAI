@@ -8,3 +8,4 @@ elif (n < 20):
     print(f'O número {n} é menor que 20!')
 else:
   print(f'O número {n} é igual 20!')
+print("Fim! By SH4RKVICC!")
