@@ -1,10 +1,9 @@
-#104. Receber nome e mostra-lo se o primeiro caractere for a letra A (considerar
-# letra minúscula ou maiúscula).
+#107. Entrar com o nome de uma pessoa e so imprimi-lo se o prenome for JOSE.
 
 n = input("Insira seu nome: ")
-pl = n[0].lower() == 'a'
-if (pl == True):
-  print(f'Seu nome é {n} e começa com a letra A!')
+nd = n.split()[0]
+if (nd == 'jose' or nd == 'JOSE'):
+  print(f'Seu nome é {n}!')
 else:
-  print('Seu nome NÃO começa com a letra A!')
+  print('Seu prenome NÃO começa com Jose!')
 print("Fim! For SH4RKVICC!")
