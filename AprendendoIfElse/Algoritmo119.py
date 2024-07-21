@@ -1,8 +1,6 @@
 # 119. Entrar com três números e imprimi-los em ordem decrescente (suponha números
 # diferentes).
 
-# 118. Entrar com três números e imprimi-los em ordem crescente (suponha números diferentes).
-
 a = float(input("Insira o primeiro núm.: "))
 b = float(input("Insira o segundo núm.: "))
 c = float(input("Insira o terceiro núm.: "))
